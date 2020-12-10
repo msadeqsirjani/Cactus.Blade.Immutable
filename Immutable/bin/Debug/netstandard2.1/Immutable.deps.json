@@ -1,0 +1,42 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Immutable/1.2.0": {
+        "dependencies": {
+          "Cactus.Blade.Threading": "1.2.0"
+        },
+        "runtime": {
+          "Immutable.dll": {}
+        }
+      },
+      "Cactus.Blade.Threading/1.2.0": {
+        "runtime": {
+          "lib/netstandard2.1/Cactus.Blade.Threading.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Immutable/1.2.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cactus.Blade.Threading/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-x1x5KsrWmm5WbJ/vwTlmhLyFdH6b2lJ6EswNZF785Rn2R8BCvn5yRUKB51WFsjTHwf9asbz1TisBkbEtIGsXGA==",
+      "path": "cactus.blade.threading/1.2.0",
+      "hashPath": "cactus.blade.threading.1.2.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Immutable\Cactus.Blade.Immutable\Immutable\bin\Debug\netstandard2.1\Immutable.deps.json
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Immutable\Cactus.Blade.Immutable\Immutable\bin\Debug\netstandard2.1\Immutable.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Immutable\Cactus.Blade.Immutable\Immutable\bin\Debug\netstandard2.1\Immutable.pdb
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Immutable\Cactus.Blade.Immutable\Immutable\obj\Debug\netstandard2.1\Immutable.AssemblyInfoInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Immutable\Cactus.Blade.Immutable\Immutable\obj\Debug\netstandard2.1\Immutable.AssemblyInfo.cs
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Immutable\Cactus.Blade.Immutable\Immutable\obj\Debug\netstandard2.1\Immutable.csproj.CoreCompileInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Immutable\Cactus.Blade.Immutable\Immutable\obj\Debug\netstandard2.1\Immutable.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Immutable\Cactus.Blade.Immutable\Immutable\obj\Debug\netstandard2.1\Immutable.pdb

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Cactus.Blade.Immutable</id>
+    <version>1.2.0</version>
+    <authors>Mohammad Sadeq Sirjani</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>cactus.png</icon>
+    <description>Various classes related to immutablity</description>
+    <releaseNotes>Various classes related to immutablity</releaseNotes>
+    <copyright>@Copyright 2020</copyright>
+    <repository type="https://github.com/mohammadsadeqsirjani/Cactus/tree/master/Immutable" url="https://github.com/mohammadsadeqsirjani/Cactus/tree/master/Immutable" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Cactus.Blade.Threading" version="1.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Immutable\Cactus.Blade.Immutable\Immutable\bin\Release\netstandard2.1\Cactus.Blade.Immutable.dll" target="lib\netstandard2.1\Cactus.Blade.Immutable.dll" />
+    <file src="D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Immutable\Cactus.Blade.Immutable\Image\cactus.png" target="cactus.png" />
+    <file src="D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Immutable\Cactus.Blade.Immutable\LICENSE" target="LICENSE" />
+  </files>
+</package>

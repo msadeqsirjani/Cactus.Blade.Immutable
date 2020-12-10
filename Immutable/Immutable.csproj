@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Version>1.2.0</Version>
+    <Authors>Mohammad Sadeq Sirjani</Authors>
+    <Product>Cactus</Product>
+    <NeutralLanguage>C#</NeutralLanguage>
+    <Copyright>@Copyright 2020</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageIcon>cactus.png</PackageIcon>
+    <RepositoryUrl>https://github.com/mohammadsadeqsirjani/Cactus/tree/master/Immutable</RepositoryUrl>
+    <RepositoryType>https://github.com/mohammadsadeqsirjani/Cactus/tree/master/Immutable</RepositoryType>
+    <PackageReleaseNotes>Various classes related to immutablity</PackageReleaseNotes>
+    <Description>Various classes related to immutablity</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <AssemblyName>Cactus.Blade.Immutable</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Cactus.Blade.Threading" Version="1.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\Image\cactus.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
