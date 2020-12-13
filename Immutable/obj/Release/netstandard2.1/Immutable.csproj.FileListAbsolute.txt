@@ -7,3 +7,12 @@ D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Immutable\Cactus.Blade.Immut
 D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Immutable\Cactus.Blade.Immutable\Immutable\obj\Release\netstandard2.1\Immutable.csprojAssemblyReference.cache
 D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Immutable\Cactus.Blade.Immutable\Immutable\obj\Release\netstandard2.1\Cactus.Blade.Immutable.dll
 D:\Job\Code\C#\Cactus Packages\Cactus.Blade\Project\Immutable\Cactus.Blade.Immutable\Immutable\obj\Release\netstandard2.1\Cactus.Blade.Immutable.pdb
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade.Immutable\Immutable\bin\Release\netstandard2.1\Cactus.Blade.Immutable.deps.json
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade.Immutable\Immutable\bin\Release\netstandard2.1\Cactus.Blade.Immutable.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade.Immutable\Immutable\bin\Release\netstandard2.1\Cactus.Blade.Immutable.pdb
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade.Immutable\Immutable\obj\Release\netstandard2.1\Immutable.csprojAssemblyReference.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade.Immutable\Immutable\obj\Release\netstandard2.1\Immutable.AssemblyInfoInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade.Immutable\Immutable\obj\Release\netstandard2.1\Immutable.AssemblyInfo.cs
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade.Immutable\Immutable\obj\Release\netstandard2.1\Immutable.csproj.CoreCompileInputs.cache
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade.Immutable\Immutable\obj\Release\netstandard2.1\Cactus.Blade.Immutable.dll
+D:\Job\Code\C#\Cactus Packages\Cactus.Blade.Immutable\Immutable\obj\Release\netstandard2.1\Cactus.Blade.Immutable.pdb

@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.1": {},
     ".NETStandard,Version=v2.1/": {
-      "Cactus.Blade.Immutable/1.2.0": {
+      "Cactus.Blade.Immutable/1.2.1": {
         "dependencies": {
           "Cactus.Blade.Threading": "1.2.0"
         },
@@ -26,7 +26,7 @@
     }
   },
   "libraries": {
-    "Cactus.Blade.Immutable/1.2.0": {
+    "Cactus.Blade.Immutable/1.2.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

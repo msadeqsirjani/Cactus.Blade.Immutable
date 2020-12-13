@@ -1644,7 +1644,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Cactus.Blade.Immutable/1.2.0": {
+      "Cactus.Blade.Immutable/1.2.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
@@ -5743,7 +5743,7 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Cactus.Blade.Immutable/1.2.0": {
+    "Cactus.Blade.Immutable/1.2.1": {
       "type": "project",
       "path": "../Immutable/Immutable.csproj",
       "msbuildProject": "../Immutable/Immutable.csproj"
@@ -5751,7 +5751,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Cactus.Blade.Immutable >= 1.2.0",
+      "Cactus.Blade.Immutable >= 1.2.1",
       "MSTest.TestAdapter >= 2.1.1",
       "MSTest.TestFramework >= 2.1.1",
       "Microsoft.NET.Test.Sdk >= 16.7.1",
@@ -5764,11 +5764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Immutable\\Cactus.Blade.Immutable\\Immutable.Test\\Immutable.Test.csproj",
+      "projectUniqueName": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Immutable\\Immutable.Test\\Immutable.Test.csproj",
       "projectName": "Immutable.Test",
-      "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Immutable\\Cactus.Blade.Immutable\\Immutable.Test\\Immutable.Test.csproj",
+      "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Immutable\\Immutable.Test\\Immutable.Test.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Immutable\\Cactus.Blade.Immutable\\Immutable.Test\\obj\\",
+      "outputPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Immutable\\Immutable.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5785,8 +5785,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Immutable\\Cactus.Blade.Immutable\\Immutable\\Immutable.csproj": {
-              "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Immutable\\Cactus.Blade.Immutable\\Immutable\\Immutable.csproj"
+            "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Immutable\\Immutable\\Immutable.csproj": {
+              "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Immutable\\Immutable\\Immutable.csproj"
             }
           }
         }

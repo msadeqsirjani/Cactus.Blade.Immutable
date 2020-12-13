@@ -38,13 +38,13 @@
     "C:\\Users\\pc\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "restore": {
-      "projectUniqueName": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Immutable\\Cactus.Blade.Immutable\\Immutable\\Immutable.csproj",
+      "projectUniqueName": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Immutable\\Immutable\\Immutable.csproj",
       "projectName": "Cactus.Blade.Immutable",
-      "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Immutable\\Cactus.Blade.Immutable\\Immutable\\Immutable.csproj",
+      "projectPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Immutable\\Immutable\\Immutable.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade\\Project\\Immutable\\Cactus.Blade.Immutable\\Immutable\\obj\\",
+      "outputPath": "D:\\Job\\Code\\C#\\Cactus Packages\\Cactus.Blade.Immutable\\Immutable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
